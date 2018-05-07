@@ -1,0 +1,1 @@
+(echo 'blueteamrules123'; echo 'blueteamrules123') | passwd root
